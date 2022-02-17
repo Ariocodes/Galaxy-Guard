@@ -1,7 +1,8 @@
 """
 Author: github.com/Ariocodes
-This is a mini code showing how Pseudorandom generates random numbers.
+A 2D game made using the pygame library.
 """
+
 import random
 import time
 import pygame
