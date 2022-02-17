@@ -1,3 +1,7 @@
+"""
+Author: github.com/Ariocodes
+This is a mini code showing how Pseudorandom generates random numbers.
+"""
 import random
 import time
 import pygame
